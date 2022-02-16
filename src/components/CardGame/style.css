@@ -1,0 +1,14 @@
+#card-game {
+    display: flex;
+    justify-content: center;
+    width: 130px;
+    height: 160px;
+    align-items: center;
+    background-color: var(--color-alura);
+    border: 4px solid var(--floral-white);
+}
+
+#logo-alura {
+    width: 60px;
+    height: 94px;
+}
