@@ -3,7 +3,7 @@ import CardGame from "../CardGame"
 function CardFrontBack(){
     return /*html*/ `
         ${CardGame()}
-        ${CardGame()}
+        ${CardGame('JavaScript', 'Logo do JavaScript')}
     `
 }
 
